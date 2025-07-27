@@ -9,7 +9,7 @@ I'm a **Software Engineer** with a strong focus on backend development, speciali
 ## 🔧 Tech Stack
 
 - **ERP Systems**: Odoo (custom modules, reports, integrations), Sage, ERPNext, Netsuite
-- - **CMS**: Magento, Shopify, BigCommerce, Shopware
+- **CMS**: Magento, Shopify, BigCommerce, Shopware
 - **Web Development**: Python, PHP, JavaScript, XML
 - **APIs**: REST API development & integration
 - **Databases**: PostgreSQL, MySQL
