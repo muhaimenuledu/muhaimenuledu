@@ -1,16 +1,39 @@
 ## Hello There..! 👋
 
-<!--
-**muhaimenuledu/muhaimenuledu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm MD.Muhaimenul Islam Pranto
 
-Here are some ideas to get you started:
+I'm a **Software Engineer** with a strong focus on backend development, specializing in **Odoo**, **Magento**, and **REST APIs**. I enjoy building scalable business solutions, integrating systems, and automating workflows to help businesses run more efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- **ERP Systems**: Odoo (custom modules, reports, integrations), Magento
+- **Web Development**: Python, PHP, JavaScript, XML
+- **APIs**: REST API development & integration
+- **Databases**: PostgreSQL, MySQL
+- **Version Control**: Git, GitHub
+
+---
+
+## 🚀 What I Do
+
+- Develop and customize **Odoo modules** (Sales, Inventory, Accounting, Reports)
+- Integrate third-party services via **RESTful APIs**
+- Build and maintain custom features for **Magento** stores
+- Optimize and automate backend systems for performance and scalability
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/muhaimenul-islam-796b751b2/
+- Email: islampranto001@gmail.com
+
+---
+
+## 📂 Projects
+
+Check out my pinned repositories below to see some of my latest work in Odoo, Magento, and API development.
+
+
